@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.clickedCalenderDay{
+  background: #AECBFA !important;
+}
+
+.currentCalenderDay{
+  background: blue !important;
+}
+
+.textWhite{
+  color:#fff !important;
+}
+.textGray{
+  color:gray !important;
+}
+.textBlack{
+  color:#000 !important;
+}
+
+#eventDescription{
+  height:100px !important;
+}

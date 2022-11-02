@@ -1,0 +1,432 @@
+{
+    "2022": {
+        "1": {
+            "1": {
+                "restricted": "New Year's Day (R)",
+                "mandatory": ""
+            },
+            "9": {
+                "restricted": "Guru Gobind Singh's Birthday (R)",
+                "mandatory": ""
+            },
+            "13": {
+                "restricted": "Lohri (R)",
+                "mandatory": ""
+            },
+            "14": {
+                "restricted": "Makar Sankranti/ Magha Bihu/ Pongal (R)",
+                "mandatory": ""
+            },
+            "26": {
+                "restricted": "",
+                "mandatory": "Republic Day (G)"
+            }
+        },
+        "2": {
+            "5": {
+                "restricted": "Basant Panchami / Sri Panchami  (R)",
+                "mandatory": ""
+            },
+            "15": {
+                "restricted": "Hazarat Ali's Birthday (R)",
+                "mandatory": ""
+            },
+            "16": {
+                "restricted": "Guru Ravidas's Birthday (R)",
+                "mandatory": ""
+            },
+            "19": {
+                "restricted": "Shivaji Jayanti (R)",
+                "mandatory": ""
+            },
+            "26": {
+                "restricted": "Swami Dayananda Saraswati Jayanti (R)",
+                "mandatory": ""
+            }
+        },
+        "3": {
+            "1": {
+                "restricted": "",
+                "mandatory": "Maha Shivaratri (G)"
+            },
+            "17": {
+                "restricted": "Holika Dahan (R)",
+                "mandatory": ""
+            },
+            "18": {
+                "restricted": "Dolyatra (R)",
+                "mandatory": "Holi  (G)"
+            }
+        },
+        "4": {
+            "2": {
+                "restricted": "Chaitra Sukladi/ Gudi Padava/ Ugadi/ Cheti Chand (R)",
+                "mandatory": ""
+            },
+            "10": {
+                "restricted": "Ram Navami (R)",
+                "mandatory": ""
+            },
+            "14": {
+                "restricted": "Vaisakhi/ Vishu/ Meshadi (R)",
+                "mandatory": "Mahavir Jayanti (G)Birthday of Dr. B. R. Ambedkar (G)"
+            },
+            "15": {
+                "restricted": "Vaisakhadi (Bengal)/ Bahag Bihu (Assam) (R)",
+                "mandatory": "Good Friday (G)"
+            },
+            "17": {
+                "restricted": "Easter Sunday  (R)",
+                "mandatory": ""
+            },
+            "29": {
+                "restricted": "Jamat-Ul-Vida (R)",
+                "mandatory": ""
+            }
+        },
+        "5": {
+            "3": {
+                "restricted": "",
+                "mandatory": "Id-ul- Fitr (G)"
+            },
+            "9": {
+                "restricted": "Guru Rabindranath's Birthday (R)",
+                "mandatory": ""
+            },
+            "16": {
+                "restricted": "",
+                "mandatory": "Buddha Purnima (G)"
+            }
+        },
+        "7": {
+            "1": {
+                "restricted": "Rath Yatra (R)",
+                "mandatory": ""
+            },
+            "10": {
+                "restricted": "",
+                "mandatory": "Id-ul-Zuha (Bakrid) (G)"
+            }
+        },
+        "8": {
+            "9": {
+                "restricted": "",
+                "mandatory": "Muharram (G)"
+            },
+            "11": {
+                "restricted": "Raksha Bandhan (R)",
+                "mandatory": ""
+            },
+            "15": {
+                "restricted": "",
+                "mandatory": "Independence day  (G)"
+            },
+            "16": {
+                "restricted": "Parsi New Year's day/ Nauraj (R)",
+                "mandatory": ""
+            },
+            "18": {
+                "restricted": "Janmashtami (Smarta) (R)",
+                "mandatory": ""
+            },
+            "19": {
+                "restricted": "",
+                "mandatory": "Janmashtami (G)"
+            },
+            "31": {
+                "restricted": "Vinayaka Chaturthi/ Ganesh Chaturthi (R)",
+                "mandatory": ""
+            }
+        },
+        "9": {
+            "8": {
+                "restricted": "Onam or Thiru Onam Day (R)",
+                "mandatory": ""
+            }
+        },
+        "10": {
+            "2": {
+                "restricted": "Dussehra (Maha Saptami) (R)",
+                "mandatory": "Mahatma Gandhi's Birthday (G)"
+            },
+            "3": {
+                "restricted": "Dussehra (Maha Ashtami) (R)",
+                "mandatory": ""
+            },
+            "4": {
+                "restricted": "Dussehra (Maha Navmi) (R)",
+                "mandatory": ""
+            },
+            "5": {
+                "restricted": "",
+                "mandatory": "Dussehra (G)"
+            },
+            "9": {
+                "restricted": "Maharishi Valmiki's Birthday (R)",
+                "mandatory": "Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G)"
+            },
+            "13": {
+                "restricted": "Karaka Chaturthi (Karva Chouth) (R)",
+                "mandatory": ""
+            },
+            "24": {
+                "restricted": "Naraka Chaturdasi (R)",
+                "mandatory": "Diwali (Deepawali) (G)"
+            },
+            "25": {
+                "restricted": "Govardhan Puja (R)",
+                "mandatory": ""
+            },
+            "26": {
+                "restricted": "Bhai Duj (R)",
+                "mandatory": ""
+            },
+            "30": {
+                "restricted": "Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R)",
+                "mandatory": ""
+            }
+        },
+        "11": {
+            "8": {
+                "restricted": "",
+                "mandatory": "Guru Nanak's Birthday (G)"
+            },
+            "24": {
+                "restricted": "Guru Teg Bahadur's Martyrdom Day (R)",
+                "mandatory": ""
+            }
+        },
+        "12": {
+            "24": {
+                "restricted": "Christmas Eve (R)",
+                "mandatory": ""
+            },
+            "25": {
+                "restricted": "",
+                "mandatory": "Christmas Day (G)"
+            },
+            "29": {
+                "restricted": "Guru Gobind Singh's Birthday (R)",
+                "mandatory": ""
+            }
+        }
+    },
+    "2023": {
+        "1": {
+            "1": {
+                "restricted": "New Year's Day (R)",
+                "mandatory": ""
+            },
+            "14": {
+                "restricted": "Makar Sankranti/Magha Bihu (R)",
+                "mandatory": ""
+            },
+            "15": {
+                "restricted": "Pongal (R)",
+                "mandatory": ""
+            },
+            "26": {
+                "restricted": "Basant Panchami/Sri Panchami (R)",
+                "mandatory": "Republic Day (G)"
+            }
+        },
+        "2": {
+            "5": {
+                "restricted": "Hazarat Ali's Birthday, Guru Ravidas's Birthday (R)",
+                "mandatory": ""
+            },
+            "15": {
+                "restricted": "Swami Dayananda Saraswati Jayanti (R)",
+                "mandatory": ""
+            },
+            "18": {
+                "restricted": "Maha Shivaratri (R)",
+                "mandatory": ""
+            },
+            "19": {
+                "restricted": "Shivaji Jayanti (R)",
+                "mandatory": ""
+            }
+        },
+        "3": {
+            "7": {
+                "restricted": "Holika Dahan, Dolyatra (R)",
+                "mandatory": ""
+            },
+            "8": {
+                "restricted": "",
+                "mandatory": "Holi (G)"
+            },
+            "22": {
+                "restricted": "Chaitra Sukladi/ Gudi Padava/ Ugadi/ Cheti Chand (R)",
+                "mandatory": ""
+            },
+            "30": {
+                "restricted": "",
+                "mandatory": "Ram Navami (G)"
+            }
+        },
+        "4": {
+            "4": {
+                "restricted": "",
+                "mandatory": "Mahavir Jayanti (G)"
+            },
+            "7": {
+                "restricted": "",
+                "mandatory": "Good Friday (G)"
+            },
+            "9": {
+                "restricted": "Easter Sunday (R)",
+                "mandatory": ""
+            },
+            "14": {
+                "restricted": "Vaisakhi/Vishu/Meshadi (R)",
+                "mandatory": ""
+            },
+            "15": {
+                "restricted": "Vaisakhadi (Bengal)/ Bahag Bihu (Assam) (R)",
+                "mandatory": ""
+            },
+            "21": {
+                "restricted": "Jamat-Ul-Vida (R)",
+                "mandatory": ""
+            },
+            "22": {
+                "restricted": "",
+                "mandatory": "Id-ul-Fitr (G)"
+            }
+        },
+        "5": {
+            "5": {
+                "restricted": "",
+                "mandatory": "Buddha Purnima (G)"
+            },
+            "9": {
+                "restricted": "Guru Rabindranath's Birthday (R)",
+                "mandatory": ""
+            }
+        },
+        "6": {
+            "20": {
+                "restricted": "Rath Yatra (R)",
+                "mandatory": ""
+            },
+            "29": {
+                "restricted": "",
+                "mandatory": "Id-ul-Zuha (Bakrid) (G)"
+            }
+        },
+        "7": {
+            "29": {
+                "restricted": "",
+                "mandatory": "Muharram (G)"
+            }
+        },
+        "8": {
+            "15": {
+                "restricted": "",
+                "mandatory": "Independence Day (G)"
+            },
+            "16": {
+                "restricted": "Parsi New Year's day/ Nauraj (R)",
+                "mandatory": ""
+            },
+            "20": {
+                "restricted": "Vinayaka Chaturthi (R)",
+                "mandatory": ""
+            },
+            "29": {
+                "restricted": "Onam or Thiru Onam Day (R)",
+                "mandatory": ""
+            },
+            "30": {
+                "restricted": "Raksha Bandhan (R)",
+                "mandatory": ""
+            }
+        },
+        "9": {
+            "6": {
+                "restricted": "Janmashtami (Smarta) (R)",
+                "mandatory": ""
+            },
+            "7": {
+                "restricted": "",
+                "mandatory": "Janmashtami (Vaishnva) (G)"
+            },
+            "19": {
+                "restricted": "Ganesh Chaturthi (R)",
+                "mandatory": ""
+            },
+            "28": {
+                "restricted": "",
+                "mandatory": "Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G)"
+            }
+        },
+        "10": {
+            "2": {
+                "restricted": "",
+                "mandatory": "Mahatma Gandhi's Birthday (G)"
+            },
+            "21": {
+                "restricted": "Dussehra (Saptami) (R)",
+                "mandatory": ""
+            },
+            "22": {
+                "restricted": "Dussehra (Maha Ashtami) (R)",
+                "mandatory": ""
+            },
+            "23": {
+                "restricted": "Dussehra (Maha Navmi) (R)",
+                "mandatory": ""
+            },
+            "24": {
+                "restricted": "",
+                "mandatory": "Dussehra (G)"
+            },
+            "28": {
+                "restricted": "Maharishi Valmiki's Birthday (R)",
+                "mandatory": ""
+            }
+        },
+        "11": {
+            "1": {
+                "restricted": "Karaka Chaturthi (Karva Chouth) (R)",
+                "mandatory": ""
+            },
+            "12": {
+                "restricted": "Naraka Chaturdasi (R)",
+                "mandatory": "Diwali (Deepawali) (G)"
+            },
+            "13": {
+                "restricted": "Govardhan Puja (R)",
+                "mandatory": ""
+            },
+            "15": {
+                "restricted": "Bhai Duj (R)",
+                "mandatory": ""
+            },
+            "19": {
+                "restricted": "Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R)",
+                "mandatory": ""
+            },
+            "24": {
+                "restricted": "Guru Teg Bahadur's Martyrdom Day (R)",
+                "mandatory": ""
+            },
+            "27": {
+                "restricted": "",
+                "mandatory": "Guru Nanak's Birthday (G)"
+            }
+        },
+        "12": {
+            "24": {
+                "restricted": "Christmas Eve (R)",
+                "mandatory": ""
+            },
+            "25": {
+                "restricted": "",
+                "mandatory": "Christmas Day (G)"
+            }
+        }
+    }
+}
